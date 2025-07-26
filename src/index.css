@@ -1,3 +1,4 @@
+@import "@fontsource/inter";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -52,10 +53,10 @@
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
+    --background: 220 18% 5%;
     --foreground: 210 40% 98%;
 
-    --card: 222.2 84% 4.9%;
+    --card: 220 18% 12%;
     --card-foreground: 210 40% 98%;
 
     --popover: 222.2 84% 4.9%;
